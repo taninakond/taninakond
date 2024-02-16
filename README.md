@@ -38,22 +38,19 @@
 </p>
 
 <p align="center">
- <a href="https://taninakond.com" target="blank">
+ <a href="https://github.com/taninakond" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="taninakond" />
  </a>
- <a href="https://linkedin.com/in/tanin-akond" target="_blank">
+ <a href="https://www.linkedin.com/in/ahmed-tanin/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="taninakond"/>
  </a>
- <!-- <a href="https://dev.to/taninakond" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="taninakond" />
- </a> -->
- <a href="https://twitter.com/_taninakond" target="_blank">
+ <a href="https://twitter.com/taninakond" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_taninakond" target="_blank">
+ <a href="https://www.instagram.com/taninakond/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="taninakond" />
  </a> 
- <a href="https://facebook.com/taninakond.dev" target="_blank">
+ <a href="https://www.facebook.com/taninakond" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="taninakond"  />
   </a> 
 </p>
@@ -101,11 +98,6 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=taninakond&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/taninakond/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=taninakond&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/taninakond/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=taninakond&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/taninakond/web-projects)
-[![Tanin Akond Readme](https://github-readme-stats.vercel.app/api/pin/?username=taninakond&repo=taninakond&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/taninakond/taninakond)
 
 <p align="left">
   <a href="https://github.com/taninakond?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -117,7 +109,7 @@
 
 <p align="center">
   <a href="https://github.com/taninakond">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taninakond&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taninakond&theme=radical&border=7F3FBF&background=0D1117" alt="Tanin's GitHub streak"/>
   </a>
 </p>
 
