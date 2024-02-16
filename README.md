@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: taninakond.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: <a target="_blank" href="mailto:taninakond@gmail.com">taninakond@gmail.com</a><br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/taninakond/taninakond/issues)
 
 </p>
