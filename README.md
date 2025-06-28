@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/taninakond">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Self+Taught+Programmer;Front+End+Developer;1.5%2B+Years+of+Coding+Experience;Always+Learning+New+Things&center=true&width=450&height=45&color=F85D7F&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Self+Taught+Programmer;Front+End+Developer;6%2B+Years+of+Coding+Experience;Always+Learning+New+Things&center=true&width=450&height=45&color=F85D7F&vCenter=true&size=22" alt="Typing SVG" />
   </a>
 </p>
 
